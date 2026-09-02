@@ -217,7 +217,7 @@ $(function () {
 
 
     // ---- 座右铭字缓出效果 -----
-    var text = "Build useful things, then explain them clearly.";
+    var text = "If it ain't broke.";
     var length = text.length;
     let index = 0;
     var mottoArrs = config.motto;
