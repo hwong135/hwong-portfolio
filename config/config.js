@@ -9,7 +9,7 @@ var config = {
     log: "hwong",
     expect_work: "Embedded Systems / Machine Learning / AI",
 
-    welcome: "Backend / Systems Engineer<br>Go · Java · Distributed Systems<br>Go / Java backend builder<br>Glad to have you here.",
+    welcome: "Embedded Systems / Edge AI<br>Jetson · FPGA · ESP32 · CUDA<br>Building efficient intelligent systems<br>Glad to have you here.",
 
     about: "<p>Hello, my name is Hudson Wong, an undergraduate student at the University of Washington. </p>" +
         "<p>I am studying electrical engineering with a focus on embedded systems and machine learning</p>" +
