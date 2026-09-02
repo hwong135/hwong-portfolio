@@ -217,7 +217,7 @@ $(function () {
 
 
     // ---- 座右铭字缓出效果 -----
-    var text = "If it ain't broke.";
+    var text = "If it ain't broke, don't fix it";
     var length = text.length;
     let index = 0;
     var mottoArrs = config.motto;
