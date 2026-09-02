@@ -1,5 +1,5 @@
 var config = {
-    /* Demo profile data for the template. Replace as needed. */
+
     name: "Hudson Wong",
     sex: "Electrical Engineering Student",
     age: "Seattle, Washington",
