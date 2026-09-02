@@ -44,7 +44,7 @@ var config = {
     others: [
         ["2026 — Present", "Undergraduate Researcher | Intelligent Computing and eXploration Lab (ICXL)", "Researching efficient deployment of vision-language-action models on NVIDIA Jetson Orin Nano at the Intelligent Computing eXploration Lab."],
         ["2025 — Present", "Electrical Lead | The Boring Club", "Co-leading embedded systems projects using NVIDIA Jetson platforms, Python, and ESP32 microcontrollers for 100+ members."],
-        ["2025", "Hardware Team Lead | Sensors, Energy, and Automation Lab", "Led a team of five students and developed automated measurement routines using Keysight oscilloscopes and waveform generators."]
+        ["2025", "Hardware Team Lead | Sensors, Energy, and Automation Lab (SEAL)", "Led a team of five students and developed automated measurement routines using Keysight oscilloscopes and waveform generators."]
     ],
 
 
