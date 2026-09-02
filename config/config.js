@@ -15,6 +15,15 @@ var config = {
         "<p>I am studying electrical engineering with a focus on embedded systems and machine learning</p>" +
         "<p>My research interests lie at the intersection of embedded hardware and AI software, deploying models on edge devices。</p>",
 
+    skills: [
+        ["Python", 60, "#00ADD8"],
+        ["Java", 50, "#f89820"],
+        ["SystemVerilog", 50, "#7c3aed"],
+        ["Linux CLI", 40, "#14b8a6"],
+        ["C++", 20, "#22c55e"],
+    ],
+
+
     skills_description: "<ul>" +
         "<li>Specialized in Python 。</li>" +
         "<li>Experienced in embedded development across NVIDIA Jetson, ESP32, Raspberry Pi, and FPGA platforms.</li>" + 
