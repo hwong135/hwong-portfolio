@@ -9,6 +9,10 @@ var config = {
     log: "hwong",
     expect_work: "Embedded Systems / Machine Learning / AI",
 
+    motto: [
+        "If it doesn't work, try hitting it a couple of times."
+    ],
+
     welcome: "Embedded Systems / Edge AI<br>Jetson · FPGA · ESP32 · CUDA<br>Building efficient intelligent systems<br>Glad to have you here.",
 
     about: "<p>Hello, my name is Hudson Wong, an undergraduate student at the University of Washington. </p>" +
