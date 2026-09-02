@@ -64,8 +64,7 @@ var config = {
 
 
     icon: [
-        ["./svg/github.svg", "https://github.com/hwong135", "GitHub profile"],
-        ["./svg/博客.svg", "https://hwong135.github.io/", "Technical blog"]
+        ["./svg/github.svg", "https://github.com/hwong135", "GitHub profile"]
     ],
 
     url: [
