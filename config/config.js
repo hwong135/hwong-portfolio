@@ -29,7 +29,6 @@ var config = {
 
 
     skills_description: "<ul>" +
-        "<li>Specialized in Python 。</li>" +
         "<li>Experienced in embedded development across NVIDIA Jetson, ESP32, Raspberry Pi, and FPGA platforms.</li>" + 
         "<li>Skilled in Python, SystemVerilog, MicroPython, Linux, CUDA, TensorRT, and ONNX.</li>" + 
         "<li>Focused on optimizing machine learning models for edge deployment through quantization, dynamic computation, and hardware acceleration.</li>" + 
