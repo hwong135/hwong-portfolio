@@ -10,7 +10,7 @@ var config = {
     expect_work: "Embedded Systems / Machine Learning / AI",
 
     motto: [
-        "If it doesn't work, try hitting it a couple of times."
+        "If it is broken, try hitting it a couple of times."
     ],
 
     welcome: "Embedded Systems / Edge AI<br>Jetson · FPGA · ESP32 · CUDA<br>Building efficient intelligent systems<br>",
