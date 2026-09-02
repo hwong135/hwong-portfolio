@@ -13,10 +13,10 @@ var config = {
         "If it doesn't work, try hitting it a couple of times."
     ],
 
-    welcome: "Embedded Systems / Edge AI<br>Jetson · FPGA · ESP32 · CUDA<br>Building efficient intelligent systems<br>Glad to have you here.",
+    welcome: "Embedded Systems / Edge AI<br>Jetson · FPGA · ESP32 · CUDA<br>Building efficient intelligent systems<br>",
 
-    about: "<p>Hello, my name is Hudson Wong, an undergraduate student at the University of Washington. </p>" +
-        "<p>I am studying electrical engineering with a focus on embedded systems and machine learning</p>" +
+    about: "<p>Hello! My name is Hudson Wong, an undergraduate student at the University of Washington. </p>" +
+        "<p>I'm currently studying electrical engineering with a focus on embedded systems and machine learning</p>" +
         "<p>My research interests lie at the intersection of embedded hardware and AI software, deploying models on edge devices。</p>",
 
     skills: [
