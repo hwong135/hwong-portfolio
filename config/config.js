@@ -66,11 +66,17 @@ var config = {
     icon: [
         ["./svg/github.svg", "https://github.com/hwong135", "GitHub profile"]
     ],
-
-    url: [
+    
+    /*url: [
         "./images/index_background.jpg",
         "./images/avatar.jpg",
         "./images/work-bk.png",
         "./images/4.jpg"
+    ]*/
+    url: [
+        "./images/index_background.jpg",
+        "./images/avatar.jpg",
+        "./images/milky_way_top.png",
+        "./images/milky_way_bottom.jpg"
     ]
 }
