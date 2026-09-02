@@ -36,8 +36,9 @@ var config = {
         "</ul>",
 
     portfolio: [
-        ["./images/card-oss-contrib.png", "https://github.com/TBC-Projects/MLClassifier", "Facial Classifier", "Facial classification model deployed on NVIDIA Jetson Orin Nano"],
-        ["./images/card-go-service-starter.png", "https://github.com/hwong135/vla-optimization", "Dynamic Denoising for VLA", "Adaptive computational reduction mechanism for efficient VLA processing"]
+        ["./images/classifierHardware.png", "https://github.com/TBC-Projects/MLClassifier", "Facial Classifier", "Facial classification model deployed on NVIDIA Jetson Orin Nano"],
+        ["./images/robot_arm.png", "https://github.com/hwong135/vla-optimization", "Dynamic Denoising for VLA", "Adaptive computational reduction mechanism for efficient VLA processing"],
+        ["./images/raspberry_pi.jpg", "https://github.com/TBC-Projects/Pi-Server", "Raspberry Pi Server", "Website server for club members"]
     ],
 
     others: [
